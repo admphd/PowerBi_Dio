@@ -3,11 +3,11 @@
 
 
 
-Este repositorio e destinado a armazenar os desafios de projeto para a formaçao em PowerBi da Dio.
+Este repositório é destinado a armazenar os desafios de projeto para a formação em PowerBi da Dio.
 
-Estarao disponiveis os arquivos PowerBi (.pbix) e PowerPoint (.pptx) para cada desafio, conforme o andamento do curso.
+Estarão disponíveis os arquivos PowerBi (.pbix) e PowerPoint (.pptx) para cada desafio, conforme o andamento do curso.
 
-Fique a vontade para realizar o download, e sugerir modificaçoes, caso ache necessario.
+Fique a vontade para realizar o download, e sugerir modificações, caso ache necessário.
 
 
 
